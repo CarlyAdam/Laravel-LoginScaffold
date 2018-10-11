@@ -7,13 +7,17 @@ Simple Laravel 5.7 Login Scaffold
 ```
 1-Git clone
 ```
+```
 2-Run command "Composer Install"
 ```
-2-Define your database connection in .env file
 ```
-3-Run command "php artisan migrate"
+3-Define your database connection in .env file
 ```
-4-Run command "php artisan serve"
+```
+4-Run command "php artisan migrate"
+```
+```
+5-Run command "php artisan serve"
 ```
 
 Enjoy it ;)
