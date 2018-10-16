@@ -10,7 +10,7 @@ Simple Laravel 5.7 Login Scaffold
 4-Run command "php artisan migrate"
 5-Run command "php artisan serve"
 ```
-##Built with
+## Built with
 
 *- [Laravel](https://github.com/laravel/laravel) - [Licence](https://opensource.org/licenses/MIT) 
 
